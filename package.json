@@ -1,0 +1,26 @@
+{
+  "name": "calrulatix",
+  "version": "1.0.3",
+  "description": "Library for adding multiple numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astr0skini/calrulatix"
+  },
+  "homepage": "https://twitter.com/T0LyPark",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "T0LyPark",
+  "license": "MIT"
+}
